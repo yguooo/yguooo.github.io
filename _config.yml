@@ -21,7 +21,7 @@ repository               : "yguooo/yguooo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Yang Guo"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Computer Science at University of Wisconsin - Madison"

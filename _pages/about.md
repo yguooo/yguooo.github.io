@@ -27,6 +27,7 @@ Email: yguo [AT] cs.wisc.edu
 ## Experiences 
 - Amazon Inc. (June. 2023 - Aug. 2023) 
  <br>*Applied Scientist Intern, Seattle, WA* <br>
+ Hosted by [Dr. Kathleen Champion](http://www.kathleenchampion.com/)
 
 - Alibaba Inc., [Damo Academy](https://damo.alibaba.com/?language=en) (Sept. 2022 - Jan. 2023)
  <br>*Research Scientist Intern, Bellevue, WA*<br>
@@ -34,11 +35,13 @@ Email: yguo [AT] cs.wisc.edu
 
 - Amazon Inc. (June. 2022 - Aug. 2022) 
  <br>*Applied Scientist Intern, Seattle, WA* <br>
+ Hosted by [Michael Dillon](https://www.linkedin.com/in/mikedillonmusic/)
 
 ## Services
+
 Journal: 
 - Reviewer: SIAM Journal on Matrix Analysis and Applications
 
 Conferences:
-- Program Committee: AAAI
+- Program Committee: AAAI, ICLR
 - Reviewer: ICML, Neurips, ICLR, ICDE 

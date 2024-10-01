@@ -27,11 +27,11 @@ Email: yguo [AT] cs.wisc.edu
 ## Experiences 
 - Amazon Inc. (June. 2023 - Aug. 2023) 
  <br>*Applied Scientist Intern, Seattle, WA* <br>
- Hosted by [Dr. Kathleen Champion](http://www.kathleenchampion.com/)
+ Hosted by [Kathleen Champion](http://www.kathleenchampion.com/)
 
 - Alibaba Inc., [Damo Academy](https://damo.alibaba.com/?language=en) (Sept. 2022 - Jan. 2023)
  <br>*Research Scientist Intern, Bellevue, WA*<br>
- Hosted by [Dr. Bolin Ding](https://bolinding.github.io/)
+ Hosted by [Bolin Ding](https://bolinding.github.io/)
 
 - Amazon Inc. (June. 2022 - Aug. 2022) 
  <br>*Applied Scientist Intern, Seattle, WA* <br>
